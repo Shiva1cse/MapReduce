@@ -1,0 +1,1 @@
+Calculates total and average bytes count number of records logs
